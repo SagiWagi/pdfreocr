@@ -8,3 +8,4 @@ venv/
 *.pdf
 !README.md
 .env
+pdfreocr.spec
